@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.24cafd6a.chunk.css",
-    "main.js": "/static/js/main.cb62935e.chunk.js",
-    "main.js.map": "/static/js/main.cb62935e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e327d292.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e327d292.js.map",
-    "static/css/2.7df41cd5.chunk.css": "/static/css/2.7df41cd5.chunk.css",
-    "static/js/2.880bf964.chunk.js": "/static/js/2.880bf964.chunk.js",
-    "static/js/2.880bf964.chunk.js.map": "/static/js/2.880bf964.chunk.js.map",
+    "main.css": "/static/css/main.eed5a3ff.chunk.css",
+    "main.js": "/static/js/main.988620e8.chunk.js",
+    "main.js.map": "/static/js/main.988620e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.304b5d98.js",
+    "runtime-main.js.map": "/static/js/runtime-main.304b5d98.js.map",
+    "static/css/2.d97c81c1.chunk.css": "/static/css/2.d97c81c1.chunk.css",
+    "static/js/2.8334743b.chunk.js": "/static/js/2.8334743b.chunk.js",
+    "static/js/2.8334743b.chunk.js.map": "/static/js/2.8334743b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.259938c5f331c2e83c8d7c975f1e25b1.js": "/precache-manifest.259938c5f331c2e83c8d7c975f1e25b1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.7df41cd5.chunk.css.map": "/static/css/2.7df41cd5.chunk.css.map",
-    "static/css/main.24cafd6a.chunk.css.map": "/static/css/main.24cafd6a.chunk.css.map",
-    "static/js/2.880bf964.chunk.js.LICENSE.txt": "/static/js/2.880bf964.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/undraw_Hamburger_8ge6.svg": "/static/media/undraw_Hamburger_8ge6.b2a89532.svg",
-    "static/media/undraw_street_food_hm5i.svg": "/static/media/undraw_street_food_hm5i.59f7c2c4.svg"
+    "static/css/2.d97c81c1.chunk.css.map": "/static/css/2.d97c81c1.chunk.css.map",
+    "static/css/main.eed5a3ff.chunk.css.map": "/static/css/main.eed5a3ff.chunk.css.map",
+    "static/js/2.8334743b.chunk.js.LICENSE.txt": "/static/js/2.8334743b.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/undraw_Hamburger_8ge6.e051c3f7.jpg": "/static/media/undraw_Hamburger_8ge6.e051c3f7.jpg",
+    "static/media/undraw_street_food_hm5i.9bc66c7b.jpg": "/static/media/undraw_street_food_hm5i.9bc66c7b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e327d292.js",
-    "static/css/2.7df41cd5.chunk.css",
-    "static/js/2.880bf964.chunk.js",
-    "static/css/main.24cafd6a.chunk.css",
-    "static/js/main.cb62935e.chunk.js"
+    "static/js/runtime-main.304b5d98.js",
+    "static/css/2.d97c81c1.chunk.css",
+    "static/js/2.8334743b.chunk.js",
+    "static/css/main.eed5a3ff.chunk.css",
+    "static/js/main.988620e8.chunk.js"
   ]
 }

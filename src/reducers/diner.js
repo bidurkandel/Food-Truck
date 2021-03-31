@@ -18,8 +18,9 @@ const initialState = {
   error: "",
   userInfo: {
     dinerId: 10001,
-    username: "CrazyHorseSouthDekota",
-    email: "Crazy.Horse@SouthDekota.com",
+    username: "john",
+    email: "john@john.com",
+    password: "1234",
     currentLocation: "SD",
     favoriteTrucks: [],
   },
