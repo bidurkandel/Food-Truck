@@ -21,7 +21,7 @@ const initialState = {
     username: "john",
     email: "john@john.com",
     password: "1234",
-    currentLocation: "SF",
+    currentLocation: "SD",
     favoriteTrucks: [],
   },
   trucks: [],
